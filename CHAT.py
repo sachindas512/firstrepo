@@ -6,8 +6,11 @@ import numpy
 
 
 
-st.title("Real-time Updates")
+
+st.title("Real")
 print("numpy")
+
+
 
 start_button = st.button("Start Process")
 output_area = st.empty()
